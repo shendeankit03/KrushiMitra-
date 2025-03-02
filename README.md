@@ -26,7 +26,7 @@ KrushiMitra is a project aimed at promoting financial inclusion in agriculture. 
 ## Installation Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/parasbande007/KrushiMitra.git
+   git clone https://github.com/shendeankit03/KrushiMitra.git
 
 2. **Install Python dependencies**
    ```bash
